@@ -21,3 +21,9 @@ Install the required PowerShell module:
 ```bash
 Install-Module PSWindowsUpdate
 ```
+
+---
+
+## Start 
+
+To start it, you have to double-click UTCode.bat and accept the prompt.
